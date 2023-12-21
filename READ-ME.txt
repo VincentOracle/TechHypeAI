@@ -1,0 +1,22 @@
+  =>  Website Name    : TechHypeAI
+
+  =>  Website Link    : https://h
+
+  =>  Website License : MIT
+
+  =>  Website Author  : Were Vincent
+
+  =>  Author Website   : TechHypeAI LLC
+
+  =>  About TechHypeAI : Welcome to TechHypeAI, a pioneering platform that seamlessly blends the
+  realms of education and AI services. At TechHypeAI, our mission is to empower learners, educators,
+  and industries with cutting-edge AI technologies to revolutionize the way we learn, teach, and solve
+  complex challenges.
+
+  At TechHypeAI, we believe in the transformative power of AI to reshape education and industries alike. 
+  Our platform is designed to foster a culture of continuous learning, innovation,
+  and data-driven decision-making. With a commitment to ethical AI practices, user privacy,
+  and technological excellence, TechHypeAI is not just a platform; it's a catalyst for positive change.
+
+Join us on a journey where education meets innovation, and industries are transformed by the power of AI.
+TechHypeAI: Shaping the Future, One Learning Experience at a Time.
